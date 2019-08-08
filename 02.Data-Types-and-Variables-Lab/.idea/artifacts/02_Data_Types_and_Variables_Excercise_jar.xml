@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="02.Data-Types-and-Variables-Excercise:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/02_Data_Types_and_Variables_Excercise_jar</output-path>
+    <root id="archive" name="02.Data-Types-and-Variables-Excercise.jar">
+      <element id="module-output" name="02.Data-Types-and-Variables-Excercise" />
+    </root>
+  </artifact>
+</component>
